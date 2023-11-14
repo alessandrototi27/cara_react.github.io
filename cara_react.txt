@@ -1,0 +1,63 @@
+-				        -
+--				       --
+---				      ---
+<<----cara gunakan react di windows---->>
+---				      --- 
+--				       --
+-				        -
+
+->pastikan anda menggunakan pc/laptop
+
+->pastikan pc/laptop anda terhubung internet
+
+->pastikan pc/laptop anda sudah terinstall nodejs
+
+->setelah itu buka command prompt / git bash anda
+
+->jika directory anda sudah otomatis terpilih "C:Users\my computer>"
+
+->silahkan pilih directory mana yang akan anda pakai menggunakan "cd nama directory/file" lalu enter
+
+->setelah itu kita gunakan "npm create vite" untuk membuat file baru di dalam directory/file yang sudah dipilih
+
+->dan kita akan disuruh untuk masukkan nama file baru yang akan kita gunakan 
+
+->setelah masukkan nama file baru akan diberi pilihan, kita pilih "REACT"
+
+->dan akan muncul pilihan lagi, kita pilih "JavaScript"
+
+->setelah itu pilih nama file yang sudah di buat tadi dengan cara "cd nama file"
+
+->dan kita akan mendownload npm dengan cara "npm i"
+
+->setelah itu download axios nya dengan cara "npm i axios"
+
+->setelah itu download sweetalert nya dengan cara "npm i sweetalert"
+
+->setelah itu download json nya dengan cara "npm i -g json"
+
+->setelah itu download react dan bootstrap nya dengan cara "npm i react-bootstrap bootstrap"
+
+->terakhir download db.json nya dengan cara "json-server --watch db.json --port=4010
+
+->jika terminal nya tidak bisa di ketik tekan ctrl+c
+
+->jika bisa langsung ketik "code ." untuk membuka file yang sudah di buat ke visual studio code
+
+-							      -
+--							     --
+---							    ---
+>>----------selanjutnya di dalam visual studio code---------->>
+---							    ---
+--							     --
+-							      -
+
+->jika ingin melihat hasil nya buka terminal vscode nya ketik "npm i axios"
+
+->setelah itu untuk run ketik "npm run dev"
+
+->dan akan muncul link localhost nya untuk membuka link localhost nya gunakan ctrl+click di link nya dan akan masuk ke web kita
+
+->lakukan hal yang sama jika ingin run lagi.
+
+Jika ada yang salah silahkan bertanya ^_^
